@@ -1,0 +1,2 @@
+apply from: "${rootProject.rootDir}/common.gradle" // 这是一种脚本插件
+

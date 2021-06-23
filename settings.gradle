@@ -1,0 +1,2 @@
+include ':app', ':base:baselib', ':core:common', ':base:baselib', ':business:login', ':business:main'
+rootProject.name='ArouterGradleDemo'
